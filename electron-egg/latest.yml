@@ -1,0 +1,8 @@
+version: 1.8.1
+files:
+  - url: electron-egg_windows_1.8.1.exe
+    sha512: G7hpGw135EsNu7XN7p+tcqSMBtVCYe41eTcnAf40nXKkRblMICvPl7rotmzcYGB9lmKjefuYAgobzrlKlEFTBw==
+    size: 54871207
+path: electron-egg_windows_1.8.1.exe
+sha512: G7hpGw135EsNu7XN7p+tcqSMBtVCYe41eTcnAf40nXKkRblMICvPl7rotmzcYGB9lmKjefuYAgobzrlKlEFTBw==
+releaseDate: '2021-02-26T03:00:48.858Z'
